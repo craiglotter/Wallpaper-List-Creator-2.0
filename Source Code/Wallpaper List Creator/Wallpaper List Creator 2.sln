@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Wallpaper List Creator 2", "Wallpaper List Creator 2.vbproj", "{DDC60DF2-7F5D-4BCA-A2CA-192D45E58CCA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DDC60DF2-7F5D-4BCA-A2CA-192D45E58CCA}.Debug.ActiveCfg = Release|.NET
+		{DDC60DF2-7F5D-4BCA-A2CA-192D45E58CCA}.Debug.Build.0 = Release|.NET
+		{DDC60DF2-7F5D-4BCA-A2CA-192D45E58CCA}.Release.ActiveCfg = Release|.NET
+		{DDC60DF2-7F5D-4BCA-A2CA-192D45E58CCA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
